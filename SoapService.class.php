@@ -1,6 +1,6 @@
 /**
  * Use the SoapClient and API
- * @author xan_tounkara
+ * @author Ibeteka
  *
  */
 
