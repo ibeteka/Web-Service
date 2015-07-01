@@ -1,6 +1,6 @@
 /**
  * Handle the using of any webservices type
- * @author Ibeteka
+ * @author Ibrahim Tounkara
  */
 
 abstract class AbstractWebService {
