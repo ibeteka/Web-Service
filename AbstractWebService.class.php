@@ -1,6 +1,8 @@
+<?php
+
 /**
  * Handle the using of any webservices type
- * @author Ibrahim Tounkara
+ * @author Ibrahim Tounkara (PHP/Symfony Backend Developer)
  */
 
 abstract class AbstractWebService {
