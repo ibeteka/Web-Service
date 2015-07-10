@@ -1,7 +1,8 @@
+<?php
+
 /**
  * Use the SoapClient and API
- * @author Ibrahim Tounkara
- *
+ * @author Ibrahim Tounkara (PHP/Symfony Backend Developer)
  */
 
 
